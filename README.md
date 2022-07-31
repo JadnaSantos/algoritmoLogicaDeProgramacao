@@ -5,3 +5,11 @@
 <p>⚠ before learning the basics of javascript I learned what is programming logic. Programming logic is structuring of concepts and rules that guide the execution of the algorithm, the algorithm is the recipe, that is,
 the commands in a clear and logical step by step that lead the actions to solve a problem or to reach a certain objective.</p>
 
+## Fundamentals ✅
+
+- [x] Operators;
+- [x] Control Structure;
+- [x] Functions 
+- [x] Array;
+- [x] Objects;
+- [x] Exercise List

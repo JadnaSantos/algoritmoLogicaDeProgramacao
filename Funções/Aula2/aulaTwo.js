@@ -30,3 +30,8 @@ function showAtualyHour() {
 }
  
 showAtualyHour()
+
+
+function simpleArraySum(ar) {
+    return ar + [1,2,3]
+}
